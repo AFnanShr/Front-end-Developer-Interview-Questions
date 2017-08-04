@@ -1,0 +1,246 @@
+# أسئلة مقابلة عمل
+
+هذا الملف يحتوي على عدد من الأسئلة الممكن إستخدامها في المقابلة الوظيفة لمعرفة قدرات الموظفين. مع العلم انه لا يستحسن إستخدامها جميعاً على مرشح واحد (سيستغرق الأمر ساعات طويلة). اختيار عدد منها سيفي بالغرض ويساعدك على فحص مااذا كان المرشح يمتلك المهارات المطلوبة أم لا
+
+**ملاحظة:** يجب الأخذ بعين الاعتبار أن معظم هذه الأسئلة مفتوحة وقد تؤدي إلى نقاش مشوق يساعدك على معرفة قدرات الشخص أكثر مما في الأسئلة المباشرة
+
+## جدول المحتوى
+
+  1. [أسئلة عامة](#أسئلة-عامة)
+  1. [أسئلة HTML](#أسئلة-html)
+  1. [أسئلة CSS](#أسئلة-css)
+  1. [أسئلة JS](#سئلة-js)
+  1. [أسئلة فحص](#أسئلة-فحص)
+  1. [أسئلة أداء](#أسئلة-أداء)
+  1. [أسئلة في الشبكات](#أسئلة-في-الشبكات)
+  1. [أسئلة في التشفير](#أسئلة-في-التشفير)
+  1. [أسئلة ممتعة](#أسئلة-ممتعة)
+  
+#### أسئلة عامة:
+
+* ماذا تعلمت بالأمس/خلال هذا الأسبوع؟
+* مالذي يشدك في التشفير؟
+* ماهي اخر التحديات التقنية التي واجهتك وكف حليتها؟
+* عند اختيار واجهات المستخدم, امن المعلومات, الأداء, محسن محركات البحث, الصيانة وأي اعتبارات تقنية أخرى, على ماذا سيقع اختيارك في حال إنشاء تطبيق أو موقع ويب؟
+* تحدث عن بيئة التطوير المفضلة لديك
+* أي نظام إدارة الاصدارات تستخدم
+* هل تستطيع وصف سير عملك عند إنشاء موقع ويب؟
+* في حال كان لديك خمسة أوراق أنماط مختلفة, ماهي أفضل طريقة لدمجها إلى موقع؟
+* مالفرق بين الـ progressive enhancement والـ graceful degradation?
+* كيف يمكنك تحسين أصول / موارد موقع الويب؟
+* كم عدد التنزيلات التي يستطيع تنزيلها المتصفح وفق نطاق معين في المرة الواحدة؟
+* ما هي الاستثناءات؟
+* اذكر ثلاثة طرق لتقليل وقت تحميل الصفحة (وقت التحميل المدرك أو الفعلي)
+* في حال شاركت في مشروع وكانوا يستخدمون الـ tabs وانت تستخدم spaces ماذا ستفعل؟
+* صف كيفية إنشاء صفحة عرض شرائح بسيطة
+* لو كنت تستطيع احتراف تقنية معينة هذه السنة, ماذا ستكون؟
+* اشرح أهمية هيئات المعايير والمعايير.
+* ماهو Flash of Unstyled Content? كيف يمكنك تجنب FOUC?
+* اشرح ماهما الـ ARIA والـ screenreaders , وكيف يمكنك جعل موقع الكتروني متاح؟
+* اشرح ايجابيات وسلبيات الـ CSS animations مقارنةً بالـJavaScript animations.
+* ماهي الـCORS وماهي المشاكل التي تساهم في اصلاحها؟
+
+#### أسئلة HTML:
+
+* ماذا يفعل`doctype`?
+* مالفرق بين full standards mode, almost standards mode و quirks mode?
+* مالفرق بين HTML و XHTML?
+* هل هناك مشاكل بحفظ الصفحات كـ `application/xhtml+xml`?
+* كيف يمكنك خدمة صفحة بمحتوى ذو عدة لغات؟
+* ماهي الاشياء التي يجب أن تؤخذ بعين الإعتبار عند تصميم أو تطوير موقع متعدد اللغات؟
+* بماذا تستخدم الـ `data-` attributes ؟
+* في حال كان الـ HTML5 منصة ويب مفتوحة, ماهي لبناته الأساسية؟
+* اشرح الفرق بين `cookie`, `sessionStorage` و`localStorage`.
+* اشرح الفرق بين  `<script>`, `<script async>` و `<script defer>`.
+* لماذا يفضل أن يوضع الـ CSS `<link>`s بين `<head></head>` و JS `<script>`s قبل `</body>`? هل تعرف أي استثناءات?
+* ماهو الـ progressive rendering?
+* هل استخدمات لغات HTML مختلفة من قبل ؟
+
+#### أسئلة CSS:
+
+* مالفرق بين الـ classes و IDs قي الـ CSS?
+* مالفرق بين "resetting" و "normalizing" CSS? أيهم ستختار ولماذا ?
+* صف الـ Floats وكيفية عملها.
+* صف الـ z-index وكيفية تشكيل الـ stacking context .
+* صف الـ BFC(Block Formatting Context) وكيفية عملها.
+* ماهي تقنيات الـ clearing techniques مع الـ context المناسبة لها?
+* لشرح الـ CSS sprites, ولماذا ستوظفهم في صفحة أو موقع.
+* ماهي تقنيات تبديل الصور المفضلة لديك؟ ومتى تستخدم كلاً منها؟
+* كيف تحل مشاكل الـ browser-specific styling?
+* كيف تخدم صفحاتك لمتصفح feature-constrained?
+  * ما هي التقنيات / العمليات التي تستخدمها؟
+* ما هي الطرق المختلفة لإخفاء المحتوى (وإتاحته فقط لقراء الشاشة)؟
+* هل سبق أن استخدمت grid system, في حال كانت الإجابة نعم , أيهم تفضل؟
+* هل سبق أن استخدمت أو وظفت media queries أو mobile specific layouts/CSS?
+* هل لديك خلفية في الـ styling SVG?
+* كيف تحسن صفحات الويب الخاصة بك للطباعة؟
+* ماهي الـ "gotchas" التي تستخدم لكتابة فعالة للـ CSS?
+* ماهي ايجابيات وسلبيات استخدام CSS preprocessors?
+  * اشرح مايعجبك وما لايعجبك حول الـ CSS preprocessors التي استخدمتها
+* كيف يمكنك تنفيذ برنامج تصميم ويب يستخدم خطوط غير قياسية
+* اشرح كيف يحدد المتصفح العناصر التي تتطابق مع CSS selector.
+* صف الـ pseudo-elements واسهب في شرح بماذا يستخدمون
+* اشرح مفهومك للـ box model وكيف ترسل للمتصفح في الـ CSS لعرض نماذج التخطيط في box models مختلفة.
+* ماذا يفعل ```* { box-sizing: border-box; }``` ? وماهي فوائده؟
+* اذكر اكبر عدد من الـ display property الذي بوسعك تذكره
+* مالفرق بين inline و inline-block?
+* مالفرق بين العناصر التالية: relative, fixed, absolute و statically ?
+* 'C' في الـ CSS تعني Cascading.  كيف يتم تحديد الأولوية في تحديد الـ styles (مع ذكر امثلة)؟ وكيف يمكنك استخدام هذا النظام لصالحك
+* ماهي إطارات الـ CSS التي يمكنك استخدامها محلياً, أو في الانتاج ؟ وكيف يمكنك تغييرهم أو تحسينهم؟
+* هل سبق لك تجربة CSS Flexbox أو Grid specs?
+* ماهو اختلاف الـ design different عن الـ adaptive design?
+* هل سبق لك العمل في الـ retina graphics? إذا كان الجواب نعم فمتى واي تقنية استخدمت؟
+* هل هناك اي سبب يدعوك لإستخدام `translate()` بدلاً من *absolute positioning*, أو العكس؟ ولماذا؟
+
+#### أسئلة JS:
+
+* اشرح الـ event delegation
+* اشرح كيف `this` تعمل في الـ JavaScript
+* اشرح كيف الـ prototypal inheritance تعمل
+* مارأيك في الـ AMD مقارنةً بـ CommonJS?
+* اشرح لماذا لايعمل التالي كـ IIFE: `function foo(){ }();`.
+  * مالذي يجب تغييره لجعله  IIFE?
+* مالفرق بين المتغيرات التاية: `null`, `undefined` أو undeclared?
+  * كيف يمكنك التحقق من هذه الحالات؟
+* ماهو الـ closure, كيف ولماذا يمكنك استخدامه؟
+* ماهي الحالة التي يستخدم فيها الـ anonymous functions?
+* كيف يمكنك تنظيم أكوادك؟ (module pattern, classical inheritance?)
+* مالفرق بين الـ host objects و native objects?
+* مالفرق بين: `function Person(){}`, `var person = Person()`, و `var person = new Person()`?
+* مافرق بين `.call` و `.apply`?
+* اشرح `Function.prototype.bind`.
+* متى تستخدم `document.write()`?
+* مالفرق بين الـ feature detection, feature inference, واستخدام UA string?
+* اشرح Ajax وحاول ان تفصّل بالشرح بقدر استطاعتك
+* ماهي محاسن ومساوئ استخدام Ajax?
+* اشرح كيف يعمل JSONP (وكيف انه ليس فعلاً Ajax).
+* هل سبق لك أن استخدمت JavaScript templating?
+  * إذا كانت الإجابة نعم’ ماهي المكتبات اللتي استخدمتها؟
+* اشرح "hoisting".
+* صف الـ event bubbling.
+* مالفرق بين الـ "attribute" والـ "property"?
+* لماذا لا ينصح بلإستخدام  extending built-in JavaScript objects ?
+* مالفرق بين document load event و document DOMContentLoaded event?
+* مالفرق بين `==` و `===`?
+* اشرح سياسة same-origin في الـ JavaScript.
+* اجعل هذا يعمل:
+```javascript
+duplicate([1,2,3,4,5]); // [1,2,3,4,5,1,2,3,4,5]
+```
+* لماذا سميت Ternary expression, وإلى ماذا تشير كلمة "Ternary" ?
+* ماهو `"use strict";`? ماهي حسنات ومساوئ استخدامه؟
+* انشئ for loop بحيث يتكرر إلى `100` وينتج **"fizz"** لمضاعفات `3`, **"buzz"** لمضاعفات `5` و **"fizzbuzz"** لمضاعفات `3` و `5`
+* لماذا يستحسن بشكل عام ترك global scope لموقع كما هو وعدم تغييره؟
+* لماذا تستخدم `load` event? هل لها أي مساوئ؟ وهل تعرف أي بدائل؟ ولماذا ستسخدمها؟
+* اشرح ماهو  single page app وكيف يمكنك انشاء SEO-friendly.
+* إلى أي مدى تملك الخبرة للعمل مع Promises و/أو  polyfills?
+* ماهي مساوئ ومحاسن استخدام الـ Promises بدلاً من callbacks?
+* ماهي مساوئ ومحاسن كتباة أكواد جافا سكريبت بلغة تحول إلى جافا سكريبت؟
+* ما الأدوات والتقنيات التي تستخدمها لتصحيح أكواد جافا سكريبت؟
+* ماهي لغة البناء المستخدمة للتكرار عبر object properties و الـ array items?
+* اشرح الفرق بين mutable و immutable objects.
+  * اعطني مثال على immutable object في الجافا سكريبت
+  * ماهي محاسن ومساوئ الـ immutability?
+  * كيف يمكنك الوصول للـ immutability بكودك الخاص؟
+* اشرح الفرق بين الوظائف الـ synchronous و asynchronous 
+* ماهي الـ event loop?
+  * مالفرق بين stack و task queue?
+* اشرح فرق الاستخدام بين `foo` between `function foo() {}` و `var foo = function() {}`
+
+#### أسئلة فحص
+
+* ماهي محاسن ومساوئ فحص أكوادك؟
+* ماهي الأداوات التي تستخدمها لفحص وظائف أكوادك؟
+* مالفرق بين الـ unit test والـfunctional/integration test?
+* مالغرض من أداةcode style linting ?
+
+#### أسئلة أداء:
+
+* ماهي الأدوات المستخدمة للعثور على الأخطاء في الأكواد؟
+* ماهي طرق تحسين أداء الـ website's scrolling?
+* اشرح الفرق بين layout, painting و compositing.
+
+#### أسئلة في الشبكات:
+
+* لماذا يفضل بشكل عام خدمة موقعك من نطاقات متعددة؟
+* ابذل قصارى جهدك لشرح العمليات التي تحدث منذ أن تكتب عنوان موقع إلى أن تنتهي عملية التحميل لشاشتك
+* ماهو الفرق بين Long-Polling, Websockets و Server-Sent Events?
+* اشرح عمليات الطلب ولاجابة التالية:
+  * Diff. between Expires, Date, Age and If-Modified-...
+  * Do Not Track
+  * Cache-Control
+  * Transfer-Encoding
+  * ETag
+  * X-Frame-Options
+* ماهي HTTP methods? اذكر جميع HTTP methods التي تعرفها مع الشرح
+
+#### أسئلة في التشفير:
+
+*سؤال: ماهي قيمة `foo`?*
+```javascript
+var foo = 10 + '20';
+```
+
+*سؤال: كيف يمكنك جعل التالي يعمل*
+```javascript
+add(2, 5); // 7
+add(2)(5); // 7
+```
+
+*سؤال: ماهي نتائج الجملة التالية*
+```javascript
+"i'm a lasagna hog".split("").reverse().join("");
+```
+
+*سؤال: ماهي قيمة `window.foo`?*
+```javascript
+( window.foo || ( window.foo = "bar" ) );
+```
+
+*سؤال: ماهي نتائج الـ alerts التالية*
+```javascript
+var foo = "Hello";
+(function() {
+  var bar = " World";
+  alert(foo + bar);
+})();
+alert(foo + bar);
+```
+
+*سؤال: ماهي قيمة `foo.length`?*
+```javascript
+var foo = [];
+foo.push(1);
+foo.push(2);
+```
+
+*سؤال: ماهي قيمة `foo.x`?*
+```javascript
+var foo = {n: 1};
+var bar = foo;
+foo.x = foo = {n: 2};
+```
+
+*سؤال: ماذا تطبع الأكواد التالية؟*
+```javascript
+console.log('one');
+setTimeout(function() {
+  console.log('two');
+}, 0);
+console.log('three');
+```
+
+#### أسئلة ممتعة:
+
+* ماهو آخر مشروع رائع عملت به.
+* ماهي الأشياء التي تعجبك بأدوات المطورين التي تستخدمها؟
+* مالذي يلهمك في الـ front-end community?
+* هل لديك أي مشاريع خاصة؟ من أي نوع؟
+* ماخي الخصائص المفضلة لك في الـ Internet Explorer?
+* كيف تحب قهوتك؟
+
+#### المشاركون:
+
+هذا المستند بدأ في 2009 نتيجة تعاون [@paul_irish](https://twitter.com/paul_irish) [@bentruyman](https://twitter.com/bentruyman) [@cowboy](https://twitter.com/cowboy) [@ajpiano](https://twitter.com/ajpiano)  [@SlexAxton](https://twitter.com/slexaxton) [@boazsender](https://twitter.com/boazsender) [@miketaylr](https://twitter.com/miketaylr) [@vladikoff](https://twitter.com/vladikoff) [@gf3](https://twitter.com/gf3) [@jon_neal](https://twitter.com/jon_neal) [@sambreed](https://twitter.com/sambreed) and [@iansym](https://twitter.com/iansym).
+
+ومنذ ذلك الوقت تلقت مساهمات [100 مطور](https://github.com/h5bp/Front-end-Developer-Interview-Questions/graphs/contributors).
